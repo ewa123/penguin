@@ -24,8 +24,8 @@ namespace WindowsFormsApplication4
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Form okno = new Form();
-            okno.ShowDialog();
+            Form2 okno = new Form2();
+            okno.ShowDialog();      
         }
     }
 }
