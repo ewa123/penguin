@@ -123,7 +123,7 @@
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
             this.button2.TabIndex = 15;
-            this.button2.Text = "Licz !";
+            this.button2.Text = "Licz H";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
@@ -189,9 +189,9 @@
             // 
             this.richTextBox8.Location = new System.Drawing.Point(12, 166);
             this.richTextBox8.Name = "richTextBox8";
-            this.richTextBox8.Size = new System.Drawing.Size(225, 23);
+            this.richTextBox8.Size = new System.Drawing.Size(196, 23);
             this.richTextBox8.TabIndex = 24;
-            this.richTextBox8.Text = "Przyspieszenie ziemskie g =  9,80665 m/s^2";
+            this.richTextBox8.Text = "Przyspieszenie ziemskie g =  9,8 m/s^2";
             // 
             // richTextBox9
             // 

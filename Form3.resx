@@ -117,4 +117,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="richTextBox2.Text" xml:space="preserve">
+    <value>Rzeki górskie
+wypływają z gór, które osiągają do 3000 m, a zasilają je opady atmosferyczne i topniejące śniegi w porze wiosennej. Podłoże nie przepuszcza wody, a także dzięki górskiej rzeźbie terenu woda płynie szybko i osiąga duże amplitudy zmian przepływu. Ulewne deszcze występują zazwyczaj w miesiącach letnich i czasami doprowadzają do powodzi, natomiast brak opadów atmosferycznych powoduje znaczne zmniejszenie przepływów. Rzeki górskie mają w biegach górnych bardzo duże spadki, osiągające 30 (promila). Hydrografy rzeki górskiej z poszczególnych lat nie mają charakteru stałego i znacznie się różnią między sobą.</value>
+  </data>
+  <data name="richTextBox3.Text" xml:space="preserve">
+    <value>Rzeki zasilane przez lodowce
+wypływają bezpośrednio spod lodowca, mają wszystkie cechy rzek górskich, a ponadto występują w nich duże przepływy wodne w miesiącach od kwietnie do września spowodowane topnieniem lodowców. (Nie ma tego typu rzek w Polsce)</value>
+  </data>
+  <data name="richTextBox4.Text" xml:space="preserve">
+    <value>Rzeki nizinne
+mają małe spadki i powolne wahania wartości przepływów.  Największe przepływy występują w okresie wiosennym, co jest związane z topnieniem śniegów, w pozostałych miesiącach wartości przepływów zależą od opadów atmosferycznych. Największe przepływy występują w marcu i kwietniu.</value>
+  </data>
 </root>
